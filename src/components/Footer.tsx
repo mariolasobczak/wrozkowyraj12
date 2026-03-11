@@ -53,6 +53,9 @@ export default function Footer() {
                     <Link href="https://www.facebook.com/profile.php?id=61568993163565" target="_blank" rel="noopener noreferrer" className="hover:text-accent transition-colors">Odwiedź Fanpage</Link>
                 </div>
             </div>
+            <div className="max-w-7xl mx-auto pt-6 text-center text-xs font-body text-white/30 relative z-10">
+                <p>Chcesz taką stronę? <a href="https://mgdesign.tech" target="_blank" rel="noopener noreferrer" className="text-accent/60 hover:text-accent transition-colors">MGdesign.tech</a></p>
+            </div>
         </footer>
     );
 }
