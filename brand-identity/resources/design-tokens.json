@@ -1,0 +1,33 @@
+{
+    "brandName": "Wróżkowy Raj",
+    "colors": {
+        "primary": "#9d4edd",
+        "secondary": "#5a189a",
+        "background": "#240046",
+        "surface": "#3c096c",
+        "text_primary": "#e0aaff",
+        "text_secondary": "#c77dff"
+    },
+    "typography": {
+        "headings": "'Playfair Display', serif",
+        "body": "'Montserrat', sans-serif",
+        "special": "'Cormorant Garamond', serif",
+        "weights": {
+            "light": 300,
+            "regular": 400,
+            "bold": 700
+        }
+    },
+    "personality": "Sophisticated, high-contrast, editorial",
+    "spacing": {
+        "sm": "0.5rem",
+        "md": "1rem",
+        "lg": "2rem",
+        "xl": "4rem",
+        "xxl": "8rem"
+    },
+    "effects": {
+        "glassmorphism": "background: rgba(26, 17, 34, 0.7); backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.1); box-shadow: 0 4px 30px rgba(0, 0, 0, 0.5);",
+        "glow": "0 0 15px rgba(212, 175, 55, 0.4)"
+    }
+}
